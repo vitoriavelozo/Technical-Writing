@@ -1,2 +1,2 @@
 # Technical-Writing
-Esse Repositório será direcionado a mostrar minha experiência com meu novo trabalho.
+Esse Repositório será direcionado a documentar minha experiência com meu novo trabalho.
